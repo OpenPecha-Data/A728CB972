@@ -1,0 +1,19 @@
+segment_sources:
+  I76963849:
+    type: origin_type
+    relation: translation
+    language: en
+  I26482BC8:
+    type: origin_type
+    relation: translation
+    language: bo
+segment_pairs:
+  6eaa93194778436fa74ca48a534951cc:
+    I76963849: 33507950165246c887baa42351829e03
+    I26482BC8: a15d03b9c66e418db85212c1aa825e41
+  9ec264e9343f42e69a4471e7b9c4293d:
+    I76963849: 01b9884ac72347b9a461ebf24bfe8343
+    I26482BC8: 6d5ed9d4cbc54ec18b64cf45d954b5e2
+  6a444874eabb4496ab8aef7b53d98d34:
+    I76963849: 38bea3e582a143ed833a39fccbfa12da
+    I26482BC8: e4af9fe47c3047c085a37e40b5352ae4
